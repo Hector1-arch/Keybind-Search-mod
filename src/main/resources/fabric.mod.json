@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "keybindsearch",
+	"version": "${version}",
+	"name": "Keybind Search",
+	"description": "Adds two live search fields to the vanilla Controls / Key Binds screen: one for actions (key bind names and categories) and one for keys. Filters the list on the fly without ever changing your key mappings.",
+	"authors": [
+		"Keybind Search contributors"
+	],
+	"icon": "assets/keybindsearch/icon.png",
+	"contact": {},
+	"license": "MIT",
+	"environment": "client",
+	"mixins": [
+		"keybindsearch.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25"
+	}
+}

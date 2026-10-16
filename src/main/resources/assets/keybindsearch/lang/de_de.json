@@ -1,0 +1,10 @@
+{
+	"keybindsearch.field.activity": "Aktionssuche",
+	"keybindsearch.field.activity.hint": "Aktionen suchen...",
+	"keybindsearch.field.key": "Tastensuche",
+	"keybindsearch.field.key.hint": "Tasten suchen...",
+	"keybindsearch.button.clear": "×",
+	"keybindsearch.button.clear.activity": "Aktionssuche leeren",
+	"keybindsearch.button.clear.key": "Tastensuche leeren",
+	"keybindsearch.noResults": "Keine Tastenbelegungen gefunden"
+}

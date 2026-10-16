@@ -1,0 +1,10 @@
+{
+	"keybindsearch.field.activity": "Activity Search",
+	"keybindsearch.field.activity.hint": "Search actions...",
+	"keybindsearch.field.key": "Key Search",
+	"keybindsearch.field.key.hint": "Search keys...",
+	"keybindsearch.button.clear": "×",
+	"keybindsearch.button.clear.activity": "Clear activity search",
+	"keybindsearch.button.clear.key": "Clear key search",
+	"keybindsearch.noResults": "No keybinds found"
+}

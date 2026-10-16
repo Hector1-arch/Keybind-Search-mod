@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "com.example.keybindsearch.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"KeyBindsScreenMixin",
+		"KeyBindsListMixin",
+		"KeyBindsListKeyEntryAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
